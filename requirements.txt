@@ -1,14 +1,8 @@
 streamlit
-mtcnn
+deepface
+tensorflow==2.15.1
 opencv-python-headless
 numpy
 scikit-learn
-Python
 Pillow
-mtcnn
-tensorflow
-keras
-keras-vggface
-keras_applications
-h5py
-
+pandas
